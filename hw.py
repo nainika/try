@@ -21,3 +21,5 @@ elif timesaved == 0:
     print("No time saved")
 else:
     print(f"going slower than speed limit")
+print("over and out")
+
